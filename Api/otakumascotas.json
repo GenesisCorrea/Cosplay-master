@@ -1,0 +1,14 @@
+{
+    "cosplay1":{
+        "01":{
+            "nombre":"perro naruto",
+            "precio": 15.000,
+            "img":"../imagenes/6a2bc203f8f7629b551404f4475c7726.jpg"
+        },
+        "02":{
+            "nombre":"perro denji",
+            "precio": 20.000,
+            "img":"../imagenes/WhatsApp Image 2023-05-05 at 9.07.10 AM.jpeg"
+        }
+    }
+}
